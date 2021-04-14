@@ -1,5 +1,5 @@
 class Hello{
   public static void main(String[] args){
-    printf("Hello");
+    system.out.println("Hello");
   }
 }
